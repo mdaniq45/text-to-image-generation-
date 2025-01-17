@@ -1,0 +1,5 @@
+numpy
+Environment Setup: Python, pip, and virtual environment.
+Libraries: Hugging Face's transformers, torch, numpy.
+Hardware: A GPU is recommended for faster processing.
+Dataset: Relevant text data for fine-tuning (optional).
